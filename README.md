@@ -62,3 +62,101 @@ Setup SQL database for osTicket
 Install and open osTicket Installer in browser
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/ImOg625.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Connect to osTicket database using HeidiSQL
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ImOg625.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Log in to osTicket using admin credentials
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ImOg625.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configure roles (for grouping permissions)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ImOg625.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configure Departments (for ticket visibility)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ImOg625.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configure Teams (Pull agents from different departments)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ImOg625.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configure helpdesk agents in osTicket
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ImOg625.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ImOg625.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Log in to osTicket using admin credentials
+</p>
+<br />
+Configure users to create tickets
+<p>
+<img src="https://i.imgur.com/ImOg625.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configure SLA
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ImOg625.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configure Help Topics
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ImOg625.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Create ticket as end-user
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ImOg625.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Work Ticket to completion as helpdesk agent
+</p>
+<br />
+
+

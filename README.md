@@ -64,7 +64,7 @@ Install and open osTicket Installer in browser
 <br />
 
 <p>
-<img src="https://i.imgur.com/ImOg625.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/62lWdEx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Connect to osTicket database using HeidiSQL
@@ -72,7 +72,7 @@ Connect to osTicket database using HeidiSQL
 <br />
 
 <p>
-<img src="https://i.imgur.com/ImOg625.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gcm0yCT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Log in to osTicket using admin credentials
@@ -80,7 +80,7 @@ Log in to osTicket using admin credentials
 <br />
 
 <p>
-<img src="https://i.imgur.com/ImOg625.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ETGqWFe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure roles (for grouping permissions)
@@ -88,7 +88,7 @@ Configure roles (for grouping permissions)
 <br />
 
 <p>
-<img src="https://i.imgur.com/ImOg625.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YBvoed7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure Departments (for ticket visibility)
@@ -96,7 +96,7 @@ Configure Departments (for ticket visibility)
 <br />
 
 <p>
-<img src="https://i.imgur.com/ImOg625.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TBWCy35.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure Teams (Pull agents from different departments)
@@ -104,7 +104,7 @@ Configure Teams (Pull agents from different departments)
 <br />
 
 <p>
-<img src="https://i.imgur.com/ImOg625.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qmrv3eJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure helpdesk agents in osTicket
@@ -112,23 +112,7 @@ Configure helpdesk agents in osTicket
 <br />
 
 <p>
-<img src="https://i.imgur.com/ImOg625.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/ImOg625.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Log in to osTicket using admin credentials
-</p>
-<br />
-Configure users to create tickets
-<p>
-<img src="https://i.imgur.com/ImOg625.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/akG0TDZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure SLA
@@ -136,7 +120,7 @@ Configure SLA
 <br />
 
 <p>
-<img src="https://i.imgur.com/ImOg625.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1emlWpY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure Help Topics
@@ -144,7 +128,7 @@ Configure Help Topics
 <br />
 
 <p>
-<img src="https://i.imgur.com/ImOg625.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MVSPCrh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Create ticket as end-user
@@ -152,7 +136,7 @@ Create ticket as end-user
 <br />
 
 <p>
-<img src="https://i.imgur.com/ImOg625.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/c6fd56W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Work Ticket to completion as helpdesk agent
